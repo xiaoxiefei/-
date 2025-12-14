@@ -1,0 +1,5 @@
+{
+  "name": "Contra React Mission",
+  "description": "A retro run-and-gun platformer inspired by the classic Contra. Features 8-directional shooting, platforming physics, and enemies.",
+  "requestFramePermissions": []
+}
